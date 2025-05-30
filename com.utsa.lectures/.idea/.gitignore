@@ -3,11 +3,6 @@
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-<<<<<<< HEAD
-# Environment-dependent path to Maven home directory
-/mavenHomeManager.xml
-=======
->>>>>>> a653ab65b97f13a45ee245974b9b215b9ff7c8cd
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
